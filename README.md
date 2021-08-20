@@ -1,8 +1,8 @@
 ### Hey 🔥
 
-🇫🇷 iOS Lover leading the iOS killers @ [@TakeOffLabs](https://www.takeoff-labs.com) 
+🇫🇷 iOS programming @ [@Niji](https://www.niji.fr) 
 
-We build, grow and buy social consumer apps. Takeoff Labs is a full stack venture studio building its own products, funding and acquiring promising companies.
+Niji is a company entirely dedicated to the digital transformation of businesses
 
 ## Skills
 
@@ -24,11 +24,9 @@ We build, grow and buy social consumer apps. Takeoff Labs is a full stack ventur
 ## App Store ⚔
 ![Downloads](https://img.shields.io/badge/Downloads-\+2.5M-FFFFFF?style=for-the-badge&logo=apple&logoColor=white&labelColor=8c7ae6)
 
-<img src="https://user-images.githubusercontent.com/10321963/130106497-79668f5a-7af6-4cb9-a748-c3cb0e5818f8.png" width="100" height="100">  <img src="https://user-
-
 
 <!--
-**nekflamm/nekflamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**luigigil7/luigigil7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
